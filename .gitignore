@@ -2,6 +2,9 @@
 logs
 *.log
 
+# Emails
+emails.txt
+
 # Runtime data
 pids
 *.pid
